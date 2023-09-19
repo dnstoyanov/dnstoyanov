@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dobromir Stoyanov</h1>
-<h3 align="center">A highly motivated and dedicated professional with 12 years of experience as a designer, I have recently transitioned into the field of front-end development through intensive self-learning and specialized courses. Proficient in HTML, CSS, JavaScript, and React, I bring a unique blend of design sensibility and technical skills to create visually stunning and user-friendly web applications. Seeking a junior front-end position to leverage my diverse background and contribute to innovative projects with a passion for continuous learning and growth.</h3>
+<h3 align="left">A highly motivated and dedicated professional with 12 years of experience as a designer, I have recently transitioned into the field of front-end development through intensive self-learning and specialized courses. Proficient in HTML, CSS, JavaScript, and React, I bring a unique blend of design sensibility and technical skills to create visually stunning and user-friendly web applications. Seeking a junior front-end position to leverage my diverse background and contribute to innovative projects with a passion for continuous learning and growth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnstoyanov&label=Profile%20views&color=0e75b6&style=flat" alt="dnstoyanov" /> </p>
 
